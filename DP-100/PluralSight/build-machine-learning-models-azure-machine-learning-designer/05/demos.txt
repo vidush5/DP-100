@@ -1,0 +1,2 @@
+Evaluated Model Results Explanation
+https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/evaluate-model#results

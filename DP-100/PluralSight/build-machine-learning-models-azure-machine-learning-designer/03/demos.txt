@@ -1,0 +1,2 @@
+AdventureWorks Database Download for Azure SQL Database Datastore  - https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksLT2019.bak
+AdventureWorks Files Download for Azure Blob Storage Datastore - https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/adventure-works-2014-oltp-in-memory-sample.zip
